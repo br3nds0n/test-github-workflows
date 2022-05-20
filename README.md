@@ -36,8 +36,6 @@ The following tools/technologies were used in the construction and testing of th
 
 | logo               | Framework                  | Version      |
 | :----------------- | :------------------------- | :----------: |
-| <a href="https://github.com/dependabot" target="_blank"><img align="center" alt="dependabot" height="30" width="40" src="https://user-images.githubusercontent.com/82064724/166927777-1735c6e5-bd78-493b-9afe-820ffb77b8c4.png"></a>                   | Dependabot                     |  `0.184.0`      |
-| <a href="https://docs.github.com/pt/code-security/code-scanning/automatically-scanning-your-code-for-vulnerabilities-and-errors/about-code-scanning-alerts" target="_blank"><img align="center" alt="codescan" height="30" width="40" src="https://user-images.githubusercontent.com/82064724/166930247-02f62cb4-c8d7-48a5-bbdc-2b1d72bbebad.png"></a>            | Scanning                    |  `x.x.x`       |
 | <a href="https://www.typescriptlang.org/" target="_blank"><img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">            | JavaScript                    |  `4.6.2`       |
 
  <br>
